@@ -15,6 +15,5 @@ Välkommen till min GitHub – här hittar du ett urval av mina projekt, proof-o
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FSCODZ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FSCODZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
